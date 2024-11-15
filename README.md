@@ -12,6 +12,12 @@ Developed an interactive city navigation app utilizing Dijkstra’s Algorithm to
 - Backend Integration: Powered by a robust Node.js backend and MongoDB database to store and query city connections and distances.
 - Real-Time Updates: Reflects changes dynamically, ensuring accurate path calculations.
 - Visual Map Representation: Displays cities and paths on an interactive map for better visualization.
+# Installation
+## Prerequisites
+- Node.js installed
+- Flutter SDK installed
+- MongoDB setup locally or on the cloud
+- 
 ## Backend Setup
 Clone the repository:
 ```
