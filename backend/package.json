@@ -1,0 +1,26 @@
+{
+  "name": "dijkstra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start":"node dist/index.js",
+    "start-dev" : "nodemon src/index.ts",
+    "seed":"node dist/seed.js",
+    "tsc" : "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^5.0.0",
+    "@types/mongoose": "^5.11.97",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1",
+    "mongoose": "^8.8.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+    
+  }
+}
