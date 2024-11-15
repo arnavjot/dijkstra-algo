@@ -17,7 +17,7 @@ Developed an interactive city navigation app utilizing Dijkstra’s Algorithm to
 - Node.js installed
 - Flutter SDK installed
 - MongoDB setup locally or on the cloud
-- 
+
 ## Backend Setup
 Clone the repository:
 ```
